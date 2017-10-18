@@ -1,5 +1,13 @@
 package com.tomek;
 
+/*
+*
+* 2. Napisz​ ​ program,​ ​ który​ ​ po​ ​ wpisaniu​ ​ dowolnej​ ​ liczby​ ​ całkowitej​ ​ (int)​ ​ poda​ ​ najbliższą
+* liczbę​ ​ pierwszą.​ ​ W​ ​ przypadku​ ​ pojawienia​ ​ się​ ​ dwóch​ ​ o​ ​ tej​ ​ samej​ ​ bliskości,​ ​ wybierze
+* większą.​ ​ np.​ ​ 6​ ​ ->​ ​ 7,​ ​ a​ ​ nie​ ​ 5.
+*
+* */
+
 import java.util.Scanner;
 
 public class Main {
